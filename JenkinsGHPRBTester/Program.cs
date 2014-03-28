@@ -20,6 +20,8 @@ namespace JenkinsGHPRBTester
 
             Console.WriteLine("Some progress, still waiting for breakthrough");
 
+            Console.WriteLine("If it's not working now, I am gonna cry");
+
             Console.ReadKey();
         }
     }

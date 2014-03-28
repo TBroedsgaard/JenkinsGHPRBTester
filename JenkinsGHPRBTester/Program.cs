@@ -18,6 +18,8 @@ namespace JenkinsGHPRBTester
 
             Console.WriteLine("Third attempt. I must be stupid or something");
 
+            Console.WriteLine("Some progress, still waiting for breakthrough");
+
             Console.ReadKey();
         }
     }

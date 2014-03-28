@@ -22,7 +22,7 @@ namespace JenkinsGHPRBTester
 
             Console.WriteLine("If it's not working now, I am gonna cry");
 
-            Console.WriteLine(break the build)
+            Console.WriteLine("break the build");
 
             Console.ReadKey();
         }

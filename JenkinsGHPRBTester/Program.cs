@@ -12,6 +12,8 @@ namespace JenkinsGHPRBTester
         {
             Console.WriteLine("Hello World!");
 
+            Console.WriteLine("This is a pull request");
+
             Console.ReadKey();
         }
     }

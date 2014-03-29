@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsGHPRBTester", "JenkinsGHPRBTester\JenkinsGHPRBTester.csproj", "{755C3B61-E7A4-4C3F-AE8A-5768B4A26045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8E12E0AD-5479-4030-8013-1E506391A6B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{755C3B61-E7A4-4C3F-AE8A-5768B4A26045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{755C3B61-E7A4-4C3F-AE8A-5768B4A26045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{755C3B61-E7A4-4C3F-AE8A-5768B4A26045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E12E0AD-5479-4030-8013-1E506391A6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E12E0AD-5479-4030-8013-1E506391A6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E12E0AD-5479-4030-8013-1E506391A6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E12E0AD-5479-4030-8013-1E506391A6B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,7 +13,7 @@ namespace UnitTests
         }
 
         [TestMethod]
-        public void BasicMultiplication()
+        public void Multiplication()
         {
             Assert.AreEqual(2 * 2, 5);
         }
